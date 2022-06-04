@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+Add min 2 new extra feature // store it in localstorage
+Every team member should create at least 2 commits
+At least every team member should create one branch and should work on that branch
+Learn creating PR 
+At least every PR should take 1 approve and then you should merge it
+
+
