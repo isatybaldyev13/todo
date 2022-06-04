@@ -64,7 +64,7 @@ class App extends React.Component {
           </ul>
         </section>
         <section className="completed-list">
-          <h2>COMPLETED</h2>
+          <h2>COMPLETED test</h2>
         </section>
       </div>
     );
